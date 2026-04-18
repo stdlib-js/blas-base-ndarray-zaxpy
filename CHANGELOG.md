@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d4c1b8b`](https://github.com/stdlib-js/stdlib/commit/d4c1b8b1d39a0c99e207a16aac091bf5f5c07941) - **test:** update description _(by Athan Reines)_
 -   [`076b86b`](https://github.com/stdlib-js/stdlib/commit/076b86b2fc9a3b6a62a1ba7a23f11aa1193cfd5b) - **feat:** add `blas/base/ndarray/zaxpy` [(#11507)](https://github.com/stdlib-js/stdlib/pull/11507) _(by Kaustubh Patange)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Kaustubh Patange
 
 </section>
